@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ec4ef6cd845b2b74884868e644083756
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VTF MisterPixel
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 75ddee9e089210748ac064fc80ccda4b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
