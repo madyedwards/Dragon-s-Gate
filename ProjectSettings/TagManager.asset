@@ -4,10 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Platforms
   - Weapon
   - Projectile
   - Enemy
+  - Platform
+  - SceneManager
   layers:
   - Default
   - TransparentFX
