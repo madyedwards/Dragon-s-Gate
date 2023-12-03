@@ -1,3 +1,3 @@
-[NAME=NPC][SPEAKERSPRITE=NPC] WARNING : Honeybees at work
-[NAME=Bear][SPEAKERSPRITE=Bear] ....This is the shortest way to get home
-[NAME=NPC][SPEAKERSPRITE=NPC] Proceed with Caution
+[NAME=WEI][SPEAKERSPRITE=NPC] Are you new here? Let me give you some tips about how to navigate these waters!
+[NAME=WEI][SPEAKERSPRITE=NPC] You see those pike fish over there? Try spitting at them with RIGHT-CLICK to ward them off!
+[NAME=WEI][SPEAKERSPRITE=NPC] And if you see one of those tunnel entrances...try pressing T when you touch one and see what happens!

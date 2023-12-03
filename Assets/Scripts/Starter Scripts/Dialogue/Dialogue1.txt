@@ -1,4 +1,5 @@
-[NAME=NPC][SPEAKERSPRITE=NPC] Sigh...how I yearn for shine and gleam in my life. How I desire to collect all the glamorous shells in the world!
-[NAME=NPC][SPEAKERSPRITE=NPC] Oh! You seem to have an entrepreneurial spirit about you! Want to hear a deal?
-[NAME=NPC][SPEAKERSPRITE=NPC] Collect as many shiny shells as you can and bring it to me. In return, I'll pay you handsomely.
-[NAME=NPC][SPEAKERSPRITE=NPC] Come back once you have some pretty snail shells for me!
+[NAME=HAN][SPEAKERSPRITE=NPC] Do you know what that Shell you're holding does?
+[NAME=HAN][SPEAKERSPRITE=NPC] Legend has it that if a lucky carp manages to collect at least 8 Shells found in the river, and then brave the waters and swim upstream...
+[NAME=HAN][SPEAKERSPRITE=NPC] They'll be a strong enough swimmer to swim up the waterfalls tothe right of here, and transform into a grand dragon.
+[NAME=HAN][SPEAKERSPRITE=NPC] ....
+[NAME=HAN][SPEAKERSPRITE=NPC] Wonder if it's true!

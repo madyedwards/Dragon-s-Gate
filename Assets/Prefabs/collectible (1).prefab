@@ -74,8 +74,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 334524587
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: c6f6041af5f089a4bb13595260c1e412, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -97,11 +97,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 4936789169604700360}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e15ee124c778ec84782c000ae0911a26, type: 3}
+  m_Script: {fileID: 11500000, guid: 8dee462128458094982bb4f5f1a046b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   isCollectible: 1
   collectibleValue: 1
+  pickupSFX: {fileID: 8300000, guid: 28a75885014fe3d488c2acecad484acb, type: 3}
 --- !u!61 &4936789169604700361
 BoxCollider2D:
   m_ObjectHideFlags: 0

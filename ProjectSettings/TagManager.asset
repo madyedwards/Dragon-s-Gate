@@ -18,7 +18,7 @@ TagManager:
   - UI
   - Jump
   - No Jump
-  - 
+  - Post Processing
   - 
   - 
   - 
@@ -52,11 +52,17 @@ TagManager:
   - name: NPC
     uniqueID: 1271203529
     locked: 0
+  - name: Item
+    uniqueID: 334524587
+    locked: 0
   - name: Enemy
     uniqueID: 3241002473
     locked: 0
   - name: Platform
     uniqueID: 993740157
+    locked: 0
+  - name: Lighting
+    uniqueID: 3754501229
     locked: 0
   - name: UI
     uniqueID: 4223531631
